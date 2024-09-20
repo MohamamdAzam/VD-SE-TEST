@@ -2,6 +2,12 @@
 
 This is a simple Django application for managing customer orders. It allows users to add orders and view the top customers based on their spending.
 
+## Python Programs Questions
+
+Questions 1, 2, 4, 5, and 6 can be verified by simply running the corresponding Python files.
+
+For question 3, we have provided all the steps necessary since this is a Django app task.
+
 ## Features
 
 - Add new customer orders
@@ -47,16 +53,3 @@ This is a simple Django application for managing customer orders. It allows user
 - Adding Orders: Use the "Add Order" page to create new orders. You can select customers and input order details.
 - View Top Customers: Navigate to the "Top Customers" page to see the list of customers who have spent the most in the last 6 months.
 
-## Verification
-
-Questions 1, 2, 4, 5, and 6 can be verified by simply running the corresponding Python files.
-
-For question 3, we have provided all the steps necessary since this is a Django app task.
-
-## Contributing
-
-If you'd like to contribute to this project, please fork the repository and submit a pull request with your changes.
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
