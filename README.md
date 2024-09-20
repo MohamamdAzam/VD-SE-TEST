@@ -6,7 +6,7 @@ This is a simple Django application for managing customer orders. It allows user
 
 Questions 1, 2, 4, 5, and 6 can be verified by simply running the corresponding Python files.
 
-For question 3, we have provided all the steps necessary since this is a Django app task.
+For question 3, I have provided all the steps necessary since this is a Django app task.
 
 ## Features
 
